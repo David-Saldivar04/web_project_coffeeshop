@@ -1,45 +1,8 @@
-/* Normalize CSS */
-@import url("vendor/normalize.css");
-
-/* Tipografías principales */
-body {
-    font-family: 'Inter', Arial, sans-serif;
-    font-size: 16px;
-    line-height: 20px;
-    margin: 0;
-    padding: 0;
-    color: #333; /* Color de texto predeterminado */
-}
-
-/* Envoltorio principal */
 .page {
     min-width: 1100px;
     max-width: 1600px;
-    margin: 0 auto; /* Centra el bloque para pantallas grandes */
-    padding: 0 20px; /* Espaciado lateral */
-}
-
-/* Estilo para el encabezado */
-.page-header {
-    background-color: #f8f9fa;
-    padding: 20px;
-    border-bottom: 1px solid #ddd;
-}
-
-/* Estilo para el contenido principal */
-.page-main {
-    padding: 40px 20px;
-}
-
-/* Estilo para el pie de página */
-.page-footer {
-    background-color: #f8f9fa;
-    padding: 20px;
-    border-top: 1px solid #ddd;
-    text-align: center;
-}
-
-/* Tipografía secundaria para Noto Serif */
-.serif {
-    font-family: 'Noto Serif', 'Times New Roman', serif;
+    margin: 0 auto;
+    font-family: 'Inter', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 20px;
 }
