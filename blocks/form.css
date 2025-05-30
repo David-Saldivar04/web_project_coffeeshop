@@ -1,4 +1,4 @@
-@import url("../blocks/form.css");
+
 .reservation__form {
     border: 0;
     /* no me está funcionando el border 0 pero se lo puse en .form__fieldset y funcionó */
