@@ -27,15 +27,6 @@
     letter-spacing: -1px;
   }
   
-  .span-accent {
-    display: block;
-    font-family: "Noto Serif", Times New Roman, sans-serif;
-    font-style: italic;
-    font-weight: 500;
-    font-size: 58px;
-    line-height: 72px;
-    color: #2f80ed;
-  }
   
   .header__description {
     font-family: "Noto Serif", Times New Roman, sans-serif;
